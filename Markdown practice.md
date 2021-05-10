@@ -143,3 +143,7 @@ Then you can do one with Java
 
 
 | Header 1 | Header 2 | Header 3 | 
+
+
+[Zach's Git Command notes](https://github.com/tempe85/CodingNotes/blob/master/topics/GIT/index.md) 
+
